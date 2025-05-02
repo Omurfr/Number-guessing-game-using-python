@@ -1,4 +1,4 @@
-#Number guessing-game using python
+**Number guessing-game using python**
 
 
 The player must estimate a number between 1 and 100 in this simple Python number guessing game. He will win if he can correctly predict the number. The game will set a new number after you have guessed the ideal one. This way the game will continue.
